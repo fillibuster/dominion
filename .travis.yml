@@ -7,3 +7,8 @@ install:
    - "pip install -r requirements.txt"
 
 script: nosetests
+
+notifications:
+   email: false
+   irc: "chat.freenode.net#mochify"
+
