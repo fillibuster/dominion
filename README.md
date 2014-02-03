@@ -9,7 +9,7 @@ This is a Python implementation of the card game, Dominion.
 Continuous Integration Status
 =============================
 
-[![Continuous Integration status](https://secure.travis-ci.org/mochify/dominion.png)](http://travis-ci.org/mochify/dominion)
+[![Continuous Integration status](https://secure.travis-ci.org/mochify-labs/dominion.png)](http://travis-ci.org/mochify-labs/dominion)
 
 
 
