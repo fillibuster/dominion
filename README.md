@@ -1,7 +1,7 @@
-Py Dominion
+PyDom
 ===========
 
-A mini-project for fillibuster to do~
+A mini-project
 
 This is a Python implementation of the card game, Dominion.
 
